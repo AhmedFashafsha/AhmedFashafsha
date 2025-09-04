@@ -73,7 +73,7 @@
 <!-- GIF Section -->
 <section align="center">
   
-  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="150" />
+  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" height="150" />
 </section>
 
 <hr>
