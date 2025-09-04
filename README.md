@@ -49,7 +49,8 @@
 ###
 
 <div align="right">
-  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" height="150" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="100" height="100" alt="coding" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="150" alt="coding animation" />
 </div>
 
 ###
