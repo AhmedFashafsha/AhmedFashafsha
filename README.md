@@ -70,4 +70,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg" alt="Snake animation" height="150" />
+<img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake-dark.svg" alt="Snake animation" height="150" />
