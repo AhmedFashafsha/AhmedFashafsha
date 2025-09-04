@@ -49,7 +49,7 @@
 ###
 
 <div align="right">
-  <img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" height="150" alt="coding animation" />
+  <img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" height="200" alt="coding animation" />
 </div>
 
 ###
