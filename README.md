@@ -27,7 +27,7 @@
 <!-- Tech Stack Section -->
 <section align="left">
   <h3>Tools and Technology 🛠️</h3>
- ---
+ <--->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
@@ -50,7 +50,7 @@
 <!-- Connect With Me Section -->
 <section align="left">
   <h3>Connect with Me 🌍</h3>
- ---
+<--->
   <a href="https://www.instagram.com/ahmad.cool.9638" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
