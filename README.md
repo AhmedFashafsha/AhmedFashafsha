@@ -88,12 +88,15 @@
 
 ---
 
-### 🎯 Current Focus
+### 🤝 Connect With Me
 
-- 🔭 Working on **Gharsaty** - An innovative mobile application
-- 🌱 Learning **Advanced Flutter Development** and **UI/UX Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🎨 Creating content about **Programming** and **Design**
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmad.cool.9638)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadcool200429@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-m-fashafsha-582401321)
+
+</div>
 
 ---
 
@@ -116,18 +119,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg">
 </picture>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmad.cool.9638)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadcool200429@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-m-fashafsha-582401321)
-
-</div>
 
 ---
 
