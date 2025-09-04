@@ -4,7 +4,7 @@
 
 <!-- Visitor Badge Section -->
 <section align="center">
-  <h3>Visitor Badge 🚨</h3>
+ 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedFashafsha.AhmedFashafsha&" />
 </section>
 
@@ -14,7 +14,7 @@
 
 <!-- Stats Section -->
 <section align="center">
-  <h3>My Stats 📊</h3>
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedFashafsha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=AhmedFashafsha&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedFashafsha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
@@ -26,7 +26,7 @@
 
 <!-- Tech Stack Section -->
 <section align="left">
-  <h3>My Tech Stack 🛠️</h3>
+  <h3>Tools and Technology 🛠️</h3>
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
@@ -66,8 +66,8 @@
 
 <!-- GIF Section -->
 <section align="center">
-  <h3>My Coding Journey 🚀</h3>
-  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="300" />
+  
+  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="150" />
 </section>
 
 <hr>
@@ -76,6 +76,6 @@
 
 <!-- Snake Animation Section -->
 <section align="center">
-  <h3>Snake Animation 🐍</h3>
-  <img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg" alt="Snake animation" width="300" />
+
+  <img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg" alt="Snake animation" width="700" />
 </section>
