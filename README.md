@@ -27,6 +27,7 @@
 <!-- Tech Stack Section -->
 <section align="left">
   <h3>Tools and Technology 🛠️</h3>
+  <br>
 
 
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
@@ -51,6 +52,7 @@
 <!-- Connect With Me Section -->
 <section align="left">
   <h3>Connect with Me 🌍</h3>
+  <br>
 
 
   <a href="https://www.instagram.com/ahmad.cool.9638" target="_blank">
