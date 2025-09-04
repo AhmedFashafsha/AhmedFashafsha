@@ -1,73 +1,160 @@
-<h2 align="left">Hi 👋! My name is Ahmed and I'm a developer and media creator from Palestine.</h2>
+<div align="center">
+  
+# 👋 Hi there! I'm Ahmed Fashafsha
 
-###
+### 🚀 Developer & Media Creator from Palestine 🇵🇸
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Content+Creator;Always+learning+new+things)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" width="400" height="250" alt="Coding Animation"/>
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedFashafsha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="100%" alt="Ahmed's GitHub Stats"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFashafsha&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="Ahmed's GitHub Streak"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFashafsha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="50%" alt="Top Languages"/>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<details>
+<summary>Frontend Development</summary>
+<br>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details>
+<summary>Mobile Development</summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+</details>
+
+<details>
+<summary>Backend & Database</summary>
+<br>
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary>Design & Media</summary>
+<br>
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</details>
+
+<details>
+<summary>Other Tools</summary>
+<br>
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+---
+
+### 🎯 Current Focus
+
+- 🔭 Working on **Gharsaty** - An innovative mobile application
+- 🌱 Learning **Advanced Flutter Development** and **UI/UX Design**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🎨 Creating content about **Programming** and **Design**
+
+---
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedFashafsha&theme=tokyo-night&hide_border=true&border_radius=10" width="100%" alt="Activity Graph"/>
+
+---
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedFashafsha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg">
+</picture>
+
+---
+
+### 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedFashafsha.AhmedFashafsha&" />
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmad.cool.9638)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadcool200429@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-i-m-fashafsha-582401321)
+
 </div>
 
-###
+---
+
+### 💝 Support My Work
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFashafsha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AhmedFashafsha&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedFashafsha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmedfashafsha)
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<div align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
-  <img width="12" />
-  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
-  <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  /></a>
-  <img width="12" />
-  <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /></a>
-  <img width="12" />
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  /></a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /></a>
-  <img width="12" />
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  /></a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  /></a>
-  <img width="12" />
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  /></a>
-  <img width="12" />
-  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  /></a>
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👥 Visitor Count
+
+<img src="https://komarev.com/ghpvc/?username=AhmedFashafsha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
-###
-
-<div align="right">
-  <img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" height="200" alt="coding animation" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/ahmad.cool.9638" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ahmadcool200429@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-i-m-fashafsha-582401321" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake-dark.svg" alt="Snake animation" height="150" />
