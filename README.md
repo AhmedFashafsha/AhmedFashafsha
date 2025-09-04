@@ -49,7 +49,7 @@
 ###
 
 <div align="right">
-  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" height="200" />
+  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" height="150" />
 </div>
 
 ###
@@ -70,4 +70,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AhmedFashafsha/AhmedFashafsha/output/snake.svg" alt="Snake animation" height="150" />
